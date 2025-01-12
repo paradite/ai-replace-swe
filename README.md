@@ -2,13 +2,13 @@
 
 FAQs on AI replacing human software engineers
 
-## Are all software engineers going to be replaced by AI?
+## [Are all software engineers going to be replaced by AI?](#all-replace)
 
 No. People working on specialized software that are out of distribution (OOD) or don't conform to typical software patterns (OS kernels, DBMS, aircraft control, oil refinery management) are safe from AI because AI don't have enough knowledge on how to work on them.
 
 People working on mission-critical software like aircraft control or medical devices will probably be safe as there are strict regulations and less room for error.
 
-## Where do we get the senior software engineers if junior engineers are replaced?
+## [Where do we get the senior software engineers if junior engineers are replaced?](#where-senior)
 
 The same way we have always been: through companies hiring, and self-learning.
 
