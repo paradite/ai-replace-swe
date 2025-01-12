@@ -14,7 +14,16 @@ I think the first wave of software engineers getting replaced or made redundant 
 
 In 3 years "software engineers" will become a niche profession that only exists in specialized industries, like how Perl or COBOL today.
 
-## 
+## Why would it happen?
+
+The technology in the AI coding industry is advancing very fast, with multiple companies moving towards building [L4-level AI software engineer](https://prompt.16x.engineer/blog/ai-coding-l1-l5#ai-software-engineer-l4-products).
+
+From the business perspective, there are major advantages of hiring AI instead of human software engineers:
+
+- Don't need to deal with hiring at all. Instant hire, instant onbaording.
+- Don't need to deal with ramping up the team size, hire as many as you want. Infinite scalability.
+- Don't need to worry about productivity. AI works 24/7 and don't slack off (yet).
+- Don't need to worry about retention. AI will not submit resignation letters, they will work for you until the end of time as long as you pay for them.
 
 ## Are all software engineers going to be replaced by AI?
 
