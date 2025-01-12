@@ -4,9 +4,12 @@ FAQs on AI replacing human software engineers
 
 ## Is AI going to replace software engineers?
 
-Yes. Some of them.
+Yes. Some of them, especially those:
+- Doing tedious and repetitive work.
+- Executing well-defined tasks given by others.
+- Building simple CRUD apps and websites.
 
-Those doing tedious and repetitive work. Those executing well-defined tasks. Those building CRUD. Those whose daily work can be automated by hiring Devin at a cheaper cost.
+Essentially if most of you daily work can be automated by hiring Devin ($500/month) at a cheaper cost, you are at risk.
 
 ## When will it happen?
 
