@@ -2,13 +2,27 @@
 
 FAQs on AI replacing human software engineers
 
-## [Are all software engineers going to be replaced by AI?](#all-replace)
+## <a id="replace" /> Is AI going to replace software engineers?
+
+Yes. Some of them.
+
+Those doing tedious and repetitive work. Those executing well-defined tasks. Those building CRUD. Those whose daily work can be automated by hiring Devin at a cheaper cost.
+
+## <a id="when-happen" /> When will it happen?
+
+I think the first wave of software engineers getting replaced or made redundant directly due to AI will happen in 2025.
+
+In 3 years "software engineers" will become a niche profession that only exists in specialized industries, like how Perl or COBOL today.
+
+## 
+
+## <a id="all-replace" /> Are all software engineers going to be replaced by AI?
 
 No. People working on specialized software that are out of distribution (OOD) or don't conform to typical software patterns (OS kernels, DBMS, aircraft control, oil refinery management) are safe from AI because AI don't have enough knowledge on how to work on them.
 
 People working on mission-critical software like aircraft control or medical devices will probably be safe as there are strict regulations and less room for error.
 
-## [Where do we get the senior software engineers if junior engineers are replaced?](#where-senior)
+## <a id="where-senior" /> Where do we get the senior software engineers if junior engineers are replaced?
 
 The same way we have always been: through companies hiring, and self-learning.
 
