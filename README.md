@@ -13,11 +13,19 @@ Essentially if most of you daily work can be automated by hiring Devin ($500/mon
 
 ## Is AI going to replace all software engineers?
 
-No. People working on specialized software that are out of distribution (OOD) or don't conform to typical software patterns (OS kernels, DBMS, aircraft control, oil refinery management) are safe from AI because AI don't have enough knowledge on how to work on them.
+No. Here are some cases where software engineers won't be replaced in the near future:
 
-People working on mission-critical software like aircraft control or medical devices will probably be safe as there are strict regulations and less room for error.
+Specialized software
 
-Business still need some people to supervise the AI, review AI-generated code, and be accountable for the code. The ideal person to fit into this role would still be a software engineer.
+- People working on specialized software that are out of distribution (OOD) or don't conform to typical software patterns (OS kernels, DBMS, aircraft control, oil refinery management) are safe from AI because AI don't have enough knowledge on how to work on them.
+
+Mission-critial software
+
+- People working on mission-critical software like aircraft control or medical devices will probably be safe as there are strict regulations and less room for error.
+
+Accountability & supervisory role
+
+- Business still need some people to supervise the AI, review AI-generated code, and be accountable for the code. The ideal person to fit into this role would still be a software engineer.
 
 ## When will it happen?
 
@@ -45,6 +53,12 @@ If you are using the raw model, use Claude 3.5 Sonnet. It crushes anything OpenA
 Use a [L2 tool](https://prompt.16x.engineer/blog/ai-coding-l1-l5#task-level-automation-l2-products) like cursor, aider, Cline or 16x Prompt to integrate Claude with your codebase context and only pass relevant context to the LLM, this dramatically improves the output quality and reliability.
 
 Experiment with a [L4 tool](https://prompt.16x.engineer/blog/ai-coding-l1-l5#ai-software-engineer-l4-products) like Devin, Marblism or bolt.new to see how the trend is evolving in full stack end-to-end development. They are stil in the early stage, but might become better rapidly with new frontier models like o3.
+
+## Are software engineers doomed?
+
+No. There will be other professions born out of the AI adoption.
+
+For example, software promoters who are technical people and specialize in improving effectiveness and efficiency of building software using AI tools. Like how sales engineers or solutions engineer today don't directly code the product, but help clients get the most out of the product.
 
 ## Where do we get the senior software engineers?
 
