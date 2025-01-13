@@ -57,3 +57,15 @@ Large companies may continue to hire and train junior software engineers (in red
 - fufill the social responsibilities of ensuring there are humans to pass down the knowledge (Captain B. McCrea in WALL-E)
 
 Plenty of people who are passionate about coding will continue to learn programming on their own by reading books, following tutorials and building, with the help of AI.
+
+## You don't know anything about software engineering
+
+I do know about software engineering. I have worked at tech companies like [Grab](https://en.wikipedia.org/wiki/Grab_Holdings) and [Ant Group (Alipay)](https://en.wikipedia.org/wiki/Ant_Group) for 5 years. My last title was Senior Frontend Engineer at Ant Group.
+
+I have been building my own startup building AI-driven mobile games and AI coding tools for the past two years.
+
+I have also consulted with several startups as fractional CTO and software consultant.
+
+Here is a [post](https://www.linkedin.com/posts/zhu-liang_looks-like-i-got-labelled-as-one-of-those-activity-7276868839621963776-qXgq/) where I showcased some of my credentials as a software engineer.
+
+Here is my [LinkedIn profile](https://www.linkedin.com/in/zhu-liang/) if you'd like to find out more about my experience.
