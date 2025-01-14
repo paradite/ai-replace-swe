@@ -74,11 +74,17 @@ Plenty of people who are passionate about coding will continue to learn programm
 
 ## You don't know anything about software engineering
 
-I do know about software engineering. I have worked at tech companies like [Grab](https://en.wikipedia.org/wiki/Grab_Holdings) and [Ant Group (Alipay)](https://en.wikipedia.org/wiki/Ant_Group) for 5 years. My last title was Senior Frontend Engineer at Ant Group.
+I have worked at tech companies like [Grab](https://en.wikipedia.org/wiki/Grab_Holdings) and [Ant Group (Alipay)](https://en.wikipedia.org/wiki/Ant_Group) for 5 years (2017-2022). My last title was Senior Frontend Engineer at Ant Group.
 
-I have been building my own startup building AI-driven mobile games and AI coding tools for the past two years.
+I built [AI Simulator](https://ai-simulator.com/) mobile games in 2022 with PPO model training and inference running on device (and fixed some bugs in TensorFlow.js along the way).
 
-I have also consulted with several startups as fractional CTO and software consultant.
+I built [16x Prompt](https://prompt.16x.engineer/) to streamline AI coding workflows in September 2023, been using AI to code almost daily for a year, acquired 300+ paying customers.
+
+I replicated GPT-2 results myself on Azure GPU instance in December 2023 with nanoGPT.
+
+I made over 3000 contributions to 40 repositories in 2024, 94% of them are commits.
+
+I have consulted with several startups as fractional CTO and software consultant.
 
 Here is a [post](https://www.linkedin.com/posts/zhu-liang_looks-like-i-got-labelled-as-one-of-those-activity-7276868839621963776-qXgq/) where I showcased some of my credentials as a software engineer.
 
