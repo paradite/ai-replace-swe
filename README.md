@@ -37,6 +37,8 @@ In 3 years "software engineers" will become a niche profession that only exists 
 
 The technology in the AI coding industry is advancing very fast, with multiple companies moving towards building [L4-level AI software engineer](https://prompt.16x.engineer/blog/ai-coding-l1-l5#ai-software-engineer-l4-products).
 
+I recently got access to Devin in January 2025, and I am very impressed with its current product offerings and capabilities. There are some constraints and silly issues but I think those will get sorted in no time given how fast things move.
+
 From the business perspective, there are major advantages of hiring AI instead of human software engineers:
 
 - Don't need to deal with hiring at all. Instant hire, instant onbaording.
