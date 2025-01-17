@@ -39,6 +39,8 @@ The technology in the AI coding industry is advancing very fast, with multiple c
 
 I recently got access to Devin in January 2025, and I am very impressed with its current product offerings and capabilities. There are some constraints and silly issues but I think those will get sorted in no time given how fast things move.
 
+> Check out my first impressions on Devin [here](https://thegroundtruth.substack.com/p/devin-first-impressions).
+
 From the business perspective, there are major advantages of hiring AI instead of human software engineers:
 
 - Don't need to deal with hiring at all. Instant hire, instant onbaording.
