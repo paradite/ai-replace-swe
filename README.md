@@ -64,6 +64,10 @@ No. There will be other professions born out of the AI adoption.
 
 For example, software promoters who are technical people and specialize in improving effectiveness and efficiency of building software using AI tools. Like how sales engineers or solutions engineer today don't directly code the product, but help clients get the most out of the product.
 
+Software engineers can prepare for the future by learning to use AI tools to be more productive. In this way, they can produce more value when paired with AI tools, compared to just AI tools like Devin alone. 
+
+It is also good to move up the value chain into product management or team management. As software engineering and code become more commoditized, the value creation will shift up the value chain and product management will become more important. And team management is still needed, regardless of it's human engineers or AI engineers. Someone needs to supervise them and review PRs.
+
 ## Where do we get the senior software engineers?
 
 A common question is: "If we replace junior software engineers, where do we get the senior software engineers?"
