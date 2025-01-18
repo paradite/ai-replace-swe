@@ -66,7 +66,11 @@ For example, software promoters who are technical people and specialize in impro
 
 Software engineers can prepare for the future by learning to use AI tools to be more productive. In this way, they can produce more value when paired with AI tools, compared to just AI tools like Devin alone. 
 
-It is also good to move up the value chain into product management or team management. As software engineering and code become more commoditized, the value creation will shift up the value chain and product management will become more important. And team management is still needed, regardless of it's human engineers or AI engineers. Someone needs to supervise them and review PRs.
+It is also good to move up the value chain into product management or team lead (manager track). 
+
+As software engineering and code become more commoditized, the value creation will shift up the value chain and product management will become more important. 
+
+Team leads are still needed, regardless of it's human engineers or AI engineers that they manage. Someone needs to supervise them and review PRs. And someone needs to communicate with the business and product team to discuss priorities and schedules.
 
 ## Where do we get the senior software engineers?
 
