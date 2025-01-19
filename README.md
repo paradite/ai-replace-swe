@@ -98,6 +98,6 @@ I made over 3000 contributions to 40 repositories in 2024, 94% of them are commi
 
 I have consulted with several startups as fractional CTO and software consultant.
 
-Here is a [post](https://www.linkedin.com/posts/zhu-liang_looks-like-i-got-labelled-as-one-of-those-activity-7276868839621963776-qXgq/) where I showcased some of my credentials as a software engineer.
+Here is a [post](https://www.linkedin.com/posts/zhu-liang_heres-why-im-qualified-to-make-predictions-activity-7286620835879043072-Tlt9/) where I discussed why I am qualified to make such predictions.
 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/zhu-liang/) if you'd like to find out more about my experience.
