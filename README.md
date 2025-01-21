@@ -33,6 +33,20 @@ I think the first wave of software engineers getting replaced or made redundant 
 
 In 3 years "software engineers" will become a niche profession that only exists in specialized industries, like how Perl or COBOL today.
 
+## What do you mean by "replace"?
+
+I think of replacement in terms of number of human employees vs AI employees.
+
+Hypothetically, a company currently has 5 human engineers. With an addition of an AI engineer, the company now only need 4 human engineers + 1 AI engineer to achieve the same output. If the company do not require more engineering bandwidth, then the company can decide to layoff one human engineer.
+
+That human engineer is "replaced".
+
+The AI engineer might not be able to do 100% of the things the human engineer can do, like updating JIRA ticket status and attending meetings. But we still have other 4 human engineers that can help with those tasks.
+
+The AI engineer can just focus on things that it can do, like writing the technical plan for the new feature, asking for clarifications, actually writing the code, writing tests, running the tests locally, and submitting a PR. Devin is one example of an AI engineer that can perform these tasks.
+
+> Check out my first impressions on Devin [here](https://thegroundtruth.substack.com/p/devin-first-impressions).
+
 ## Why would it happen?
 
 The technology in the AI coding industry is advancing very fast, with multiple companies moving towards building [L4-level AI software engineer](https://prompt.16x.engineer/blog/ai-coding-l1-l5#ai-software-engineer-l4-products).
