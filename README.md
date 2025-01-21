@@ -43,7 +43,7 @@ That human engineer is "replaced".
 
 The AI engineer might not be able to do 100% of the things the human engineer can do, like updating JIRA ticket status and attending meetings. But we still have other 4 human engineers that can help with those tasks.
 
-The AI engineer can just focus on things that it can do, like writing the technical plan for the new feature, asking for clarifications, actually writing the code, writing tests, running the tests locally, and submitting a PR. Devin is one example of an AI engineer that can perform these tasks.
+The AI engineer can just focus on things that it can do, like analysing the requirements, reading the existing codebase to understand its structure, writing the technical plan for the new feature, asking for clarifications, writing the code, writing tests, running the tests locally, and finally submitting a PR for review. Devin is one example of an AI engineer that can perform these tasks.
 
 > Check out my first impressions on Devin [here](https://thegroundtruth.substack.com/p/devin-first-impressions).
 
